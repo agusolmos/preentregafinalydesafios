@@ -1,0 +1,13 @@
+.sntock{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 15px;
+}
+
+.sntock2{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size:50px;
+}
